@@ -4,6 +4,8 @@ Which kinds of shoppers does a grocery retailer have, and which ones matter most
 
 This project groups 2,469 households from **The Complete Journey** (a public 84.51° dataset of one year of grocery transactions) by how they shop. It uses **K-Means**, cross-checks the result with **Ward hierarchical clustering**, visualizes the segments with **PCA**, and profiles each segment by demographics.
 
+**Timeline:** built in November 2026, applying the K-Means, hierarchical clustering and PCA methods from my MS Information Systems coursework.
+
 ## The four segments
 
 | Segment | Households | Share of spend | Trips / year | Avg basket | On promotion | Store brand | Fuel |
