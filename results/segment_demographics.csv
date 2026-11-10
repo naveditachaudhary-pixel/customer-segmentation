@@ -1,0 +1,82 @@
+segment,variable,level,share
+Big-basket loyalists,age,19-24,0.0622
+Big-basket loyalists,age,25-34,0.1807
+Big-basket loyalists,age,35-44,0.2269
+Big-basket loyalists,age,45-54,0.3614
+Big-basket loyalists,age,55-64,0.0803
+Big-basket loyalists,age,65+,0.0884
+Fuel & store-brand regulars,age,19-24,0.0398
+Fuel & store-brand regulars,age,25-34,0.1493
+Fuel & store-brand regulars,age,35-44,0.2836
+Fuel & store-brand regulars,age,45-54,0.398
+Fuel & store-brand regulars,age,55-64,0.0647
+Fuel & store-brand regulars,age,65+,0.0647
+Occasional shoppers,age,19-24,0.0686
+Occasional shoppers,age,25-34,0.2157
+Occasional shoppers,age,35-44,0.2353
+Occasional shoppers,age,45-54,0.2745
+Occasional shoppers,age,55-64,0.0588
+Occasional shoppers,age,65+,0.1471
+Big-basket loyalists,income,Under 15K,0.0763
+Big-basket loyalists,income,15-24K,0.0783
+Big-basket loyalists,income,25-34K,0.0823
+Big-basket loyalists,income,35-49K,0.1928
+Big-basket loyalists,income,50-74K,0.249
+Big-basket loyalists,income,75-99K,0.1185
+Big-basket loyalists,income,100-124K,0.0442
+Big-basket loyalists,income,125-149K,0.0562
+Big-basket loyalists,income,150-174K,0.0502
+Big-basket loyalists,income,175-199K,0.0201
+Big-basket loyalists,income,200-249K,0.01
+Big-basket loyalists,income,250K+,0.0221
+Fuel & store-brand regulars,income,Under 15K,0.0746
+Fuel & store-brand regulars,income,15-24K,0.0945
+Fuel & store-brand regulars,income,25-34K,0.0995
+Fuel & store-brand regulars,income,35-49K,0.2239
+Fuel & store-brand regulars,income,50-74K,0.2786
+Fuel & store-brand regulars,income,75-99K,0.1194
+Fuel & store-brand regulars,income,100-124K,0.0498
+Fuel & store-brand regulars,income,125-149K,0.0398
+Fuel & store-brand regulars,income,150-174K,0.0149
+Fuel & store-brand regulars,income,175-199K,0.005
+Fuel & store-brand regulars,income,200-249K,0.0
+Fuel & store-brand regulars,income,250K+,0.0
+Occasional shoppers,income,Under 15K,0.0784
+Occasional shoppers,income,15-24K,0.1569
+Occasional shoppers,income,25-34K,0.1569
+Occasional shoppers,income,35-49K,0.3039
+Occasional shoppers,income,50-74K,0.1176
+Occasional shoppers,income,75-99K,0.1275
+Occasional shoppers,income,100-124K,0.0196
+Occasional shoppers,income,125-149K,0.0196
+Occasional shoppers,income,150-174K,0.0196
+Occasional shoppers,income,175-199K,0.0
+Occasional shoppers,income,200-249K,0.0
+Occasional shoppers,income,250K+,0.0
+Big-basket loyalists,household_size,1,0.3133
+Big-basket loyalists,household_size,2,0.4116
+Big-basket loyalists,household_size,3,0.1446
+Big-basket loyalists,household_size,4,0.0562
+Big-basket loyalists,household_size,5+,0.0743
+Fuel & store-brand regulars,household_size,1,0.3134
+Fuel & store-brand regulars,household_size,2,0.398
+Fuel & store-brand regulars,household_size,3,0.1095
+Fuel & store-brand regulars,household_size,4,0.0896
+Fuel & store-brand regulars,household_size,5+,0.0896
+Occasional shoppers,household_size,1,0.3529
+Occasional shoppers,household_size,2,0.3235
+Occasional shoppers,household_size,3,0.1471
+Occasional shoppers,household_size,4,0.0686
+Occasional shoppers,household_size,5+,0.1078
+Big-basket loyalists,kids_count,0,0.6506
+Big-basket loyalists,kids_count,1,0.2008
+Big-basket loyalists,kids_count,2,0.0723
+Big-basket loyalists,kids_count,3+,0.0763
+Fuel & store-brand regulars,kids_count,0,0.6269
+Fuel & store-brand regulars,kids_count,1,0.1891
+Fuel & store-brand regulars,kids_count,2,0.0846
+Fuel & store-brand regulars,kids_count,3+,0.0995
+Occasional shoppers,kids_count,0,0.6176
+Occasional shoppers,kids_count,1,0.2059
+Occasional shoppers,kids_count,2,0.0686
+Occasional shoppers,kids_count,3+,0.1078

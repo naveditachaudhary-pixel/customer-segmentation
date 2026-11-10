@@ -1,0 +1,5 @@
+segment,households,share_of_households,recency_weeks,trips,spend,basket_value,promo_share,private_share,produce_share,fuel_share,drug_gm_share,departments,share_of_spend
+Big-basket loyalists,881,0.357,0.0,72.0,2534.78,36.521,0.475,0.229,0.07,0.007,0.114,13.0,0.6
+Fuel & store-brand regulars,403,0.163,0.0,89.0,2291.09,27.092,0.608,0.415,0.049,0.189,0.09,13.0,0.251
+Occasional shoppers,864,0.35,1.0,26.0,647.945,22.155,0.507,0.252,0.049,0.0,0.106,9.0,0.137
+Lapsed,321,0.13,9.0,7.0,128.57,17.526,0.416,0.203,0.053,0.0,0.094,5.0,0.012
